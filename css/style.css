@@ -119,9 +119,10 @@ body,
 }
 
 #mu-contact .mu-contact-area .mu-contact-content .mu-contact-right {
-  display: inline;
-  float: left;
-  width: 100%;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 44%;
 }
 
 #mu-contact .mu-contact-area .mu-contact-content .mu-contact-right iframe {
