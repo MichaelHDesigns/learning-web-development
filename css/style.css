@@ -24,6 +24,14 @@ body,
 /*==================
  CONTACT PAGE
 ====================*/
+
+.mu-title {
+  display: inline;
+  float: left;
+  text-align: center;
+  width: 100%;
+}
+
 #mu-contact {
   display: inline;
   float: left;
